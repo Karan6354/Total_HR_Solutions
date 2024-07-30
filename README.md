@@ -3,7 +3,7 @@
   <h1>Total HR Solutions</h1>
   
   <p>
-    Total HR Solutions is a comprehensive HR management platform designed to streamline and manage all HR-related tasks. 
+    Total HR Solution is a website build using WordPress, provides a comprehensive overview services and expertise of HR companies, allowing visitors to apply for jobs and contact the company for inquiries.
   
 <br />
 
@@ -21,7 +21,7 @@
 <!-- About the Project -->
 ## About the Project
 
-Total HR Solutions is a comprehensive HR management platform designed to streamline and manage all HR-related tasks. Built using WordPress, this website offers a range of features to facilitate employee management, payroll processing, recruitment, and more. The platform aims to provide an efficient and user-friendly interface for HR professionals.
+Total HR Solution is a website, built using WordPress, serves as a showcase for HR companies's capabilities in employee management, payroll processing, recruitment, and more. Although this website does not conduct HR tasks online, it provides a comprehensive overview services and expertise of HR companies. Visitors can explore offerings, apply for jobs, or get in touch with the company for more information. Designed with a user-friendly interface, this website ensures that clients and prospective employees have a smooth and informative experience.
 
 
 <!-- Screenshots -->
